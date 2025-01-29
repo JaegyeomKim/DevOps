@@ -1,48 +1,134 @@
-# 1~2년 DevOps 로드맵 + 자격증 준비 타임라인
+# 🔥 1-2 Year DevOps Roadmap + Certification Timeline
 
-## 🎯 목표:
-✅ **1년 차** - DevOps 필수 기술 학습 + 기초 자격증 취득  
-✅ **2년 차** - 심화 실습 + 실무 프로젝트 + 취업 준비  
-
-## 📌 1~2년 DevOps 타임라인 (Step-by-Step)
-
-| 월수 | 학습 내용 | 자격증 준비 | 목표 |
-|------|---------|----------|------|
-| **1~2개월** | 리눅스 & 네트워크 기본기 | ❌ 없음 | Linux/Bash, TCP/IP, SSH 익히기 |
-| **3~4개월** | 클라우드 기본기 (AWS/GCP) | ✅ AWS SAA-C03 시작 | AWS IAM, EC2, S3, VPC, Load Balancer |
-| **5~6개월** | Docker & Kubernetes 기초 | ❌ 없음 | Docker 컨테이너, k8s Pod, Deployment |
-| **7~8개월** | Infrastructure as Code (IaC) | ✅ Terraform Associate | Terraform으로 AWS 자동화 |
-| **9~10개월** | CI/CD 구축 | ❌ 없음 | GitHub Actions, Jenkins, GitLab CI |
-| **11~12개월** | Kubernetes 심화 & 운영 | ✅ CKA 준비 시작 | Helm, RBAC, Service Mesh |
-| **13~14개월** | DevSecOps & 모니터링 | ❌ 없음 | 보안, Prometheus, Grafana, ELK |
-| **15~24개월** | 실무 프로젝트 & 포트폴리오 | ✅ CKA 최종 취득 | GitHub 프로젝트, 실무 경험 쌓기 |
-
----
-
-# 🚀 1-2 Year DevOps Roadmap + Certification Timeline
-
-## 🎯 Goals:
-✅ **Year 1** - Learn essential DevOps skills + Obtain basic certifications  
-✅ **Year 2** - Advanced practice + Real-world projects + Job preparation  
+## 👉 Goal:
+✅ Year 1 → Learn essential DevOps skills + obtain fundamental certifications  
+✅ Year 2 → Advanced practice + real-world projects + job preparation  
 
 ## 📌 1-2 Year DevOps Timeline (Step-by-Step)
-
-| Months | Learning Topics | Certification Preparation | Goals |
-|--------|---------------|--------------------------|-------|
-| **1-2 Months** | Linux & Networking Basics | ❌ None | Learn Linux/Bash, TCP/IP, SSH |
-| **3-4 Months** | Cloud Fundamentals (AWS/GCP) | ✅ Start AWS SAA-C03 | AWS IAM, EC2, S3, VPC, Load Balancer |
-| **5-6 Months** | Docker & Kubernetes Basics | ❌ None | Docker containers, k8s Pods, Deployment |
-| **7-8 Months** | Infrastructure as Code (IaC) | ✅ Terraform Associate | Automate AWS using Terraform |
-| **9-10 Months** | CI/CD Implementation | ❌ None | GitHub Actions, Jenkins, GitLab CI |
-| **11-12 Months** | Kubernetes Advanced & Operations | ✅ Start CKA | Helm, RBAC, Service Mesh |
-| **13-14 Months** | DevSecOps & Monitoring | ❌ None | Security, Prometheus, Grafana, ELK |
-| **15-24 Months** | Real-world Projects & Portfolio | ✅ Finalize CKA | GitHub projects, hands-on experience |
+| Months | Learning Topics | Certification Prep | Goals |
+|--------|----------------|-------------------|--------|
+| 1-2 | Linux & Networking Basics | ❌ None | Learn Linux/Bash, TCP/IP, SSH |
+| 3-4 | Cloud Fundamentals (AWS/GCP) | ✅ Start AWS SAA-C03 | IAM, EC2, S3, VPC, Load Balancer |
+| 5-6 | Docker & Kubernetes Basics | ❌ None | Docker containers, k8s Pod, Deployment |
+| 7-8 | Infrastructure as Code (IaC) | ✅ Terraform Associate | Automate AWS with Terraform |
+| 9-10 | CI/CD Implementation | ❌ None | GitHub Actions, Jenkins, GitLab CI |
+| 11-12 | Advanced Kubernetes & Operations | ✅ Start CKA | Helm, RBAC, Service Mesh |
+| 13-14 | DevSecOps & Monitoring | ❌ None | Security, Prometheus, Grafana, ELK |
+| 15-24 | Real-world projects & portfolio | ✅ Finalize CKA | GitHub projects, hands-on experience |
 
 ---
 
-## 🚀 최종 목표 (Final Goals - Year 2)
-✔ AWS + Terraform + Kubernetes + CI/CD 실무 능력 갖추기  
-✔ CKA, Terraform Associate, AWS SAA-C03 자격증 취득  
-✔ 실무 프로젝트 & 포트폴리오 정리 → DevOps 엔지니어 취업 준비 완료!  
+## 🟢 Month 1-2: Linux & Networking Basics
+✅ **Goal:** Learn essential Linux & networking skills for DevOps  
+❌ **No Certification** (Focus on fundamentals)  
+✅ **Topics:**
+- Linux Commands (`ls`, `cd`, `rm`, `find`, `grep`, `awk`)
+- Bash Scripting (`for` loop, `if-else`, `cron jobs`)
+- Networking Basics (TCP/IP, DNS, SSH, Firewall settings)
 
-🔥 **"자격증 + 실무 경험 조합으로 DevOps 엔지니어로 전환 성공!"** 🚀💪  
+📌 **Resources:**
+- 📖 *The Linux Command Line* (Free)
+- 📹 Udemy: *Linux for Beginners*
+
+---
+
+## 🟡 Month 3-4: Cloud Fundamentals (AWS/GCP)
+✅ **Goal:** Learn how to manage servers & networks in the cloud  
+✅ **Certification Start:** 🎯 *AWS Certified Solutions Architect – Associate (SAA-C03)*  
+✅ **Topics:**
+- AWS IAM (Identity & Access Management)
+- EC2 (Virtual Machines), S3 (Storage), VPC (Networking)
+- Load Balancer, Auto Scaling
+- Serverless (AWS Lambda, API Gateway)
+
+📌 **Resources:**
+- 📹 Udemy: *AWS Certified Solutions Architect (SAA-C03)*
+- **Hands-on Practice**: AWS Free Tier
+
+---
+
+## 🟠 Month 5-6: Docker & Kubernetes Basics
+✅ **Goal:** Understand containerization and basic Kubernetes concepts  
+❌ **No Certification Yet** (Focus on basics, CKA later)  
+✅ **Topics:**
+- Running Docker containers (`docker build`, `docker run`)
+- Kubernetes Basics (Pods, Deployments, Services)
+- `kubectl` Commands (`kubectl get pods`, `kubectl apply`)
+
+📌 **Resources:**
+- 📖 *Kubernetes Official Documentation*
+- 📹 Udemy: *Docker & Kubernetes*
+
+---
+
+## 🟢 Month 7-8: Infrastructure as Code (IaC)
+✅ **Goal:** Automate infrastructure using code  
+✅ **Certification Start:** 🎯 *Terraform Associate* (Target completion in Month 8)  
+✅ **Topics:**
+- Terraform Basics (`terraform init`, `terraform apply`)
+- AWS Infrastructure Automation (`terraform apply` for EC2)
+- Ansible Basics (Server Configuration Automation)
+
+📌 **Resources:**
+- 📹 Udemy: *Terraform on AWS*
+- 📖 *Terraform Official Documentation*
+
+---
+
+## 🟠 Month 9-10: CI/CD Implementation
+✅ **Goal:** Build CI/CD pipelines using GitHub Actions & Jenkins  
+❌ **No Certification** (Focus on hands-on learning)  
+✅ **Topics:**
+- Automated Deployment with GitHub Actions
+- Jenkins & GitLab CI for CI/CD pipelines
+- Security in CI/CD (Vulnerability Scanning, Code Analysis)
+
+📌 **Resources:**
+- 📹 Udemy: *CI/CD with Jenkins & Docker*
+
+---
+
+## 🔵 Month 11-12: Advanced Kubernetes & Operations
+✅ **Goal:** Master Kubernetes deployment & operations  
+✅ **Certification Start:** 🎯 *Certified Kubernetes Administrator (CKA)* (Target completion in Month 15)  
+✅ **Topics:**
+- Helm Charts (Automated Application Deployment)
+- RBAC (Role-Based Access Control)
+- Service Mesh (Istio, Linkerd)
+
+📌 **Resources:**
+- 📹 Udemy: *Certified Kubernetes Administrator (CKA) Course*
+
+---
+
+## 🟢 Month 13-14: DevSecOps & Monitoring
+✅ **Goal:** Implement security best practices & monitoring  
+❌ **No Certification** (Focus on practical knowledge, CKA already covered)  
+✅ **Topics:**
+- CI/CD Security Automation (SonarQube, Checkmarx, Trivy, Snyk)
+- Kubernetes Security (Network Policy, Pod Security, OPA/Gatekeeper)
+- Monitoring with Prometheus & Grafana
+- Log Analysis with ELK Stack (ElasticSearch, Logstash, Kibana)
+
+📌 **Resources:**
+- 📹 Udemy: *DevSecOps Hands-On Guide*
+
+---
+
+## 🔴 Month 15-24: Real-World Projects & Portfolio
+✅ **Goal:** Build hands-on experience with real-world DevOps projects  
+✅ **Final Certification:** 🎯 *Certified Kubernetes Administrator (CKA)*  
+✅ **Practical Projects:**
+- Automate Cloud Infrastructure with Terraform + AWS
+- CI/CD Pipeline with GitHub Actions + Docker + Kubernetes
+- Monitoring System with Prometheus + Grafana + ELK
+✅ **GitHub & Blog Documentation** (Share knowledge & strengthen resume)
+
+---
+
+## 🚀 Final Goal (Year 2)
+✔ Master AWS + Terraform + Kubernetes + CI/CD skills  
+✔ Obtain CKA, Terraform Associate, AWS SAA-C03 Certifications  
+✔ Complete real-world projects & portfolio → **DevOps Engineer Job Ready!**  
+
+🔥 *"Combining certifications + hands-on experience for a successful DevOps career transition!"* 🚀💪
